@@ -1,3 +1,4 @@
+;#.     #
 ; disasSembly of "lsdj.gb"
 ld_long: MACRO
     IF STRLWR("\1") == "a"
