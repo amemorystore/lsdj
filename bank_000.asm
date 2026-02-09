@@ -3,7 +3,7 @@ SECTION "ROM Bank $000", ROM0[$0]
 
 RST_00::
     ret
-
+;.
 
     rst $38
     rst $38
