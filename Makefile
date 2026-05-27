@@ -1,4 +1,4 @@
-#.        #
+#.       #
 all: game.gbc
 
 %.2bpp: %.png
